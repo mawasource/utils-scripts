@@ -6,3 +6,5 @@ PowerShell script which is able to deploy one asp.net project to multiple destin
 2. The variables in the script below have to be configured.
 3. Locate this script in the root folder of your Web Project.
 4. Execute it with PowerShell.
+
+<http://www.mawasource.com/2015/10/aspnet-deploy-project-on-multiple.html>
